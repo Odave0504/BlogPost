@@ -22,7 +22,7 @@ __bold Text2__
 2. N.list2
     1. N.list3
 
-![hello world image](images/220228_hello-world.png)
+![hello world image](https://github.com/Odave0504/BlogPost/blob/main/blog/images/220228_hello-world.png?raw=true)
 
 ---
 
